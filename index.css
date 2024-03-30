@@ -1,0 +1,30 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+body{
+    background-color: #3ea1e4;
+}
+
+h1{
+    font-size: 6em;
+    font-family: 'lobster', cursive
+    
+}
+
+img{
+    width: 80%;
+}
+
+.dice{
+    display: inline-block;
+    text-align: center;
+
+}
+
+p{
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+}
